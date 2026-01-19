@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 API Catalogue de Produits & Catégories
 
 Ce projet est une API de catalogue de produits et de catégories réalisée avec Next.js. Il utilise Supabase comme base de données et inclut une interface d'administration web moderne (CRUD).
