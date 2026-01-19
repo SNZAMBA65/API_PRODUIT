@@ -93,4 +93,4 @@ Api_produit/
 └── .env.local                 # Variables d'environnement (Supabase)
 ```
 
-Collaborateurs : Christian ONDIYO et Samir NZAMBA
+Réalisé par Samir NZAMBA
