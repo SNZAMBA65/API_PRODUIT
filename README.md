@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 API Catalogue de Produits & Catégories
 
 Ce projet est une API de catalogue de produits et de catégories réalisée avec Next.js. Il utilise Supabase comme base de données et inclut une interface d'administration web moderne (CRUD).
@@ -9,7 +8,7 @@ Pour démarrer ce projet en local :
 
 1. Cloner le dépôt :
     ```bash
-    git clone https://github.com/stark123-clrt/Api_produit.git
+    git clone https://github.com/SNZAMBA65/API_PRODUIT.git
     cd Api_produit
     ```
 2. Installer les dépendances Node.js :
